@@ -35,3 +35,7 @@ app/src/main/java/com/emresaritas/basicmediaplayer/
 ├── CustomSeekerView.java
 └── AudioFile.java
 ```
+
+## License
+
+[MIT](LICENSE)
